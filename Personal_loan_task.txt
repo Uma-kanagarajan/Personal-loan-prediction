@@ -1,0 +1,21 @@
+>Please find below
+Tasks to be done on dataset :
+
+1.Import the datasets and libraries, check datatype, statistical summary, shape, null values or incorrect imputation
+2.EDA: Study the data distribution in each attribute and target variable, share your findings
+• Number of unique in each column?
+• Number of people with zero mortgage?
+• Number of people with zero credit card spending per month?
+• Value counts of all categorical columns.
+• Univariate and Bivariate
+Get data model ready
+
+3. Split the data into training and test set in the ratio of 70:30 respectively
+
+4. Use Logistic Regression model to predict the number of a customers buying personal loans. Print all the metrics related for evaluating the model performance
+
+5. Give your reasoning on how can the model perform better?
+
+6. Give Business understanding of your model?
+
+And to put all the info on a notebook jupyter
